@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nasa-search-app/static/css/main.22e6a89c.chunk.css",
+    "main.js": "/nasa-search-app/static/js/main.a997618f.chunk.js",
+    "main.js.map": "/nasa-search-app/static/js/main.a997618f.chunk.js.map",
+    "runtime-main.js": "/nasa-search-app/static/js/runtime-main.e7a5b00e.js",
+    "runtime-main.js.map": "/nasa-search-app/static/js/runtime-main.e7a5b00e.js.map",
+    "static/js/2.85c58fa5.chunk.js": "/nasa-search-app/static/js/2.85c58fa5.chunk.js",
+    "static/js/2.85c58fa5.chunk.js.map": "/nasa-search-app/static/js/2.85c58fa5.chunk.js.map",
+    "static/js/3.a3d638df.chunk.js": "/nasa-search-app/static/js/3.a3d638df.chunk.js",
+    "static/js/3.a3d638df.chunk.js.map": "/nasa-search-app/static/js/3.a3d638df.chunk.js.map",
+    "index.html": "/nasa-search-app/index.html",
+    "static/css/main.22e6a89c.chunk.css.map": "/nasa-search-app/static/css/main.22e6a89c.chunk.css.map",
+    "static/js/2.85c58fa5.chunk.js.LICENSE.txt": "/nasa-search-app/static/js/2.85c58fa5.chunk.js.LICENSE.txt",
+    "static/media/Form.module.scss": "/nasa-search-app/static/media/magnifier.c8fb929d.svg",
+    "static/media/Title.module.scss": "/nasa-search-app/static/media/nasa-2.c1ac5d48.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7a5b00e.js",
+    "static/js/2.85c58fa5.chunk.js",
+    "static/css/main.22e6a89c.chunk.css",
+    "static/js/main.a997618f.chunk.js"
+  ]
+}
