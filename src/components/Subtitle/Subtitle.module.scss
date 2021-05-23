@@ -1,0 +1,35 @@
+.title_desc {
+    font-family: 'Arimo', sans-serif;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+
+    @media(max-width: 860px) {
+        width: 80%;
+    }
+
+
+    h2 {
+        font-size: 1.9rem;
+        font-weight: 300;
+
+        @media(max-width: 992px),
+        (max-height: 610px) {
+            font-size: 1.8rem;
+        }
+
+        @media(max-width: 860px) {
+            font-size: 1.4rem;
+
+        }
+
+        @media(max-width: 486px) {
+            font-size: 1.1rem;
+        }
+
+        @media(max-width: 330px) {
+            font-size: 1rem;
+        }
+    }
+
+}
